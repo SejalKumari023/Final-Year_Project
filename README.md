@@ -1,4 +1,4 @@
-# VeriModern — Stage 1
+# Final-Year-Project— Stage 1
 
 VeriModern is a verification-first project for behavior-preserving legacy Java modernization.
 
