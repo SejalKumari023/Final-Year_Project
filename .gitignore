@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+reports/*.json
+fixtures/**/target/
+.DS_Store
